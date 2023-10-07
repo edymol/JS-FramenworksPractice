@@ -1,0 +1,58 @@
+body {
+    font-family: sans-serif;
+    background-color: #DEDEDE;
+    color: #333;
+    padding: 20px 0 28px 0;
+    margin: 0;
+  }
+
+.book {
+    padding: 35px;;
+}
+
+section {
+    height: 210px;
+    margin-top: 25px;
+    padding: 10px;
+    
+}
+span {
+    padding: 10px;
+    border: solid 1px #eb0101;
+   
+}
+
+.content {
+    
+    margin-left: 50px;
+    
+}
+
+h1, h2 {
+    text-align: center;
+}
+  .app-title {
+    text-align: center;
+    font-weight: normal;
+    font-size: 2.6rem;
+    color:rgba(118, 73, 73, 0.5);
+  }
+  
+  .book-card {
+
+    max-width: 500px;
+    padding: 15px;
+    margin: 10px 20px 10px 20px;
+    background-color: #FFF;
+    box-shadow: 3px 3px 3px rgba(0, 0, 0, .1);
+    overflow: hidden;
+    box-shadow: inset 0 0 0 10px rgba(235, 75, 75, 0.5);
+  }
+
+ 
+  .book-img {
+    float: left;
+    height: 200px;
+    width: 150px;
+    padding: 15px;
+  }
